@@ -1,5 +1,4 @@
-PROJECT_ROOT=C:\Users\nidhi\Desktop\Jupyter Lab\VsCode\Capstone Projects\Med-Bro-Ml-
-
+PROJECT_ROOT=project/Root/absolute/path
 LOG_DIR=logs
 DATASET_DIR = Dataset
 MODEL_DIR = model_dir
